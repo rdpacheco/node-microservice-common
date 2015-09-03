@@ -1,0 +1,19 @@
+{
+  "name": "node-microservice-common",
+  "version": "1.0.0",
+  "description": "Common services and utilities used with the node-microservice generator",
+  "author": "Roman Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "*",
+    "baucis": "*",
+    "baucis-vivify": "*",
+    "di": "2.0.0-pre-14",
+    "express": "*",
+    "krypt": "*",
+    "lodash": "*",
+    "mongoose": "*",
+    "nconf": "*",
+    "winston": "*"
+  }
+}
