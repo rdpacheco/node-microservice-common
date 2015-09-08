@@ -5,6 +5,8 @@
   "author": "Roman Pacheco",
   "license": "ISC",
   "dependencies": {
+    "analytics-node": "*",
+    "async": "*",
     "aws-sdk": "*",
     "baucis": "*",
     "baucis-vivify": "*",
@@ -14,6 +16,11 @@
     "lodash": "*",
     "mongoose": "*",
     "nconf": "*",
+    "usher": "*",
     "winston": "*"
+  },
+  "devDependencies": {
+    "mongoose-test-utils": "*",
+    "sinon": "*"
   }
 }
