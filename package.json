@@ -1,7 +1,7 @@
 {
-  "name": "node-microservice-common",
+  "name": "stems-common",
   "version": "1.0.0",
-  "description": "Common services and utilities used with the node-microservice generator",
+  "description": "Common services and utilities used with the Node.js micro-service generator: Stems",
   "author": "Roman Pacheco",
   "license": "ISC",
   "dependencies": {
